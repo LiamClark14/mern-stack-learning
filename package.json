@@ -1,0 +1,23 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "This repository is where I will code along with the practice problems and teachings of the book Pro MERN stack by Vasan Subramanian.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamClark14/mern-stack-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamClark14/mern-stack-learning/issues"
+  },
+  "homepage": "https://github.com/LiamClark14/mern-stack-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
